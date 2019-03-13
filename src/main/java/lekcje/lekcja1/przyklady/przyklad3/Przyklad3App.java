@@ -31,5 +31,22 @@ public class Przyklad3App {
         Osoba osobaPobranaZlisty = listaOsob.get(0);
         osobaPobranaZlisty.przedstawSie();
 
+        /** Sprawdzenie, czy lista zawiera obiekt osoba1 */
+
+        Boolean czyListaZawieraObiekt = listaOsob.contains(osoba1);
+        System.out.println(czyListaZawieraObiekt);
+
+        /** Sprawdzenie na którym miejscu w liście znajduje się dany obiekt */
+
+        System.out.println(listaOsob.indexOf(osoba1));
+
+        /** Wyszukanie w liście osoby o imieniu Janusz */
+
+        for(Osoba poszukiwanaOsoba : listaOsob){
+            if(poszukiwanaOsoba.getImie() == "Janusz"){
+                System.out.println("Lista zawiera osobę o imieniu Janusz");
+                System.out.println("Janusz znajduje się na miejscu i indeksie: " + listaOsob.indexOf(poszukiwanaOsoba));
+            }
+        }
     }
 }
