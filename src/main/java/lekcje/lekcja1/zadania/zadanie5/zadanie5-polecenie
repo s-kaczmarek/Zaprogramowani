@@ -1,0 +1,21 @@
+Zadanie 5 – Lista samochodów
+
+Utwórz klasę “Samochod” która zawiera pola:
+
+- numerRejestracyjny – pole typu String
+- wlasciciel – pole przechowujace obiekt “wlasciciel”
+- marka – pole typu enum
+
+Utwórz pozostałe klasy potrzebne do utworzenia obiektu
+samochod
+
+Utwórz listę samochodów i wyszukaj w niej samochód:
+
+- po numerze rejestracyjnym
+- po właścicielu
+
+Znajdź wszystkie samochody BMW:
+
+- Upewnij się, że masz przynajmniej dwa samochody BMW z różnymi właścicielami
+- Przypisz je do nowej listy
+- Wypisz imię właściciela

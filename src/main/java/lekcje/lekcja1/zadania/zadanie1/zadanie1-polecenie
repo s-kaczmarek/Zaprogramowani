@@ -1,0 +1,22 @@
+Zadanie 1 – utwórz klasę Zwierze
+
+Utwórz klasę “Zwierze” posiadającą pola:
+
+- gatunek
+- imię
+- dzwiek (który to zwierze wydaje)
+- ucieczka (wartość “true” oznacza, że zwierze jest płochliwe)
+
+Oraz metody:
+
+- dajGlos() - wypisanie dźwięku, który wydaje zwierze
+- CzyUcieklPrzedZwierzeciem(Zwierze zwierze) – przekaż obiekt innego zwierzęcia, sprawdź, czy zwierze jest płochliwe
+(wartość “true” pola “ucieczka”) I jeśli zwierze jest płochliwe to wypisz gatunek i imię zwierzęcia przed którym uciekł.
+
+Zadanie 1 – sprawdź działanie klasy:
+
+Utwórz metodę “main” i sprawdź działanie klasy:
+- Utwórz dwa różne zwierzęta, jedno płochliwe a drugie nie
+- Przetestuj metodę dajGlos()
+- Przetestuj metodę czyUcieklPrzedZwierzeciem(), przekazując
+do metody obiekt drugiego zwierzęcia

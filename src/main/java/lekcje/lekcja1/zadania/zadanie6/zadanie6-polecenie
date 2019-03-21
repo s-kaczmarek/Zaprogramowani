@@ -1,0 +1,14 @@
+Zadanie 6 – Właściciele Zwierząt
+
+Zmodyfikuj klasę Zwierze:
+
+- Dodaj pole przechowujące właściciela zwierzęcia
+- Wykorzystaj istniejącą klasę właściciela
+
+Wyszukaj wszystkie zwierzęta jednego z właścicieli:
+
+- Wypisz gatunek oraz imię zwierzaka
+
+Wyszukaj wszystkie zwierzęta jednego gatunku:
+
+- Wypisz imię zwierzaka oraz imię jego właściciela

@@ -1,0 +1,13 @@
+Zadanie 2 – dodaj do klasy Zwierzę Enum
+
+Utwórz enum “Dieta” posiadający wartości:
+
+- miesozerne
+- roslinozerne
+
+Do klasy Zwierzę dodaj pole i metodę:
+
+- pole “dieta”, które przyjmie wartość enuma
+- metodę zjedz(Zwierze zwierze), zweryfikuj w metodzie, czy zwierze jest mięsożerne i może zjeść inne zwierze, czy nie.
+Wypisz komunikat: “jestem mięsożerny, chętnie zjem (gatunek)” lub “nie dziękuje, jestem wegetarianinem, nie zjem (gatunek)”
+pamiętaj o dodaniu nowego pola do konstruktora!

@@ -1,0 +1,14 @@
+Zadanie 3 – utwórz listę Zwierząt
+
+Zmień klasę Zwierze tak, aby gatunek był
+wybierany z enuma:
+
+- Utwórz nowy enum “Gatunek” i wpisz kilka wartości
+- Dostosuj klasę Zwierze
+
+Utwórz listę i przypisz do niej kilka Zwierząt
+
+- Pamiętaj, że typ listy musi być zgodny z typem klasy, której obiekty będą przechowywane
+- Sprawdź długość listy
+- Wybierz jeden obiekt z listy i wykonaj na mim metodę zjedz(), przekazując do niej inny obiekt z listy
+- Sprawdź, czy w liście istnieje zwierze o określonym imieniu i wypisz jakiego gatunku jest to zwierze

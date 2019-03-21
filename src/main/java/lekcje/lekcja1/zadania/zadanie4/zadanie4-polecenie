@@ -1,0 +1,13 @@
+Zadanie 4 – symulacja McDonalds’a
+
+Utwórz Enum reprezentujący menu McDonalds
+
+- Wypisz kilka zestawów i dopisz ich ceny w typie “double”
+- Pamiętaj o polu przechowującym cenę, konstruktorze i metodzie get
+
+Utwórz klasę McDonalds
+
+- Klasa ma zwierać pola do przechowania klienta (obiekt typuOsoba) oraz produktu.
+- Zrób odpowiedni konstruktor
+- Zrób metode kup(), która przyjmie jako argument zapłatę, wypisze imię klienta, produkt, który kupił i wyda resztę. Jeśli
+zapłata będzie za mała to nie wyda produktu
