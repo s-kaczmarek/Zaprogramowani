@@ -1,6 +1,6 @@
-package lekcje.lekcja1.zadania.zadanie3;
+package lekcje.lekcja1.rozwiazania.zadanie3;
 
-import lekcje.lekcja1.zadania.zadanie2.Dieta;
+import lekcje.lekcja1.rozwiazania.zadanie2.Dieta;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package lekcje.lekcja1.zadania.zadanie5;
+package lekcje.lekcja1.rozwiazania.zadanie5;
 
 public class Wlasciciel {
     private String imie;

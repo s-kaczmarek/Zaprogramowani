@@ -1,9 +1,8 @@
-package lekcje.lekcja1.zadania.zadanie6;
+package lekcje.lekcja1.rozwiazania.zadanie6;
 
-import lekcje.lekcja1.zadania.zadanie2.Dieta;
-import lekcje.lekcja1.zadania.zadanie3.Gatunek;
-import lekcje.lekcja1.zadania.zadanie3.Zwierze3;
-import lekcje.lekcja1.zadania.zadanie5.Wlasciciel;
+import lekcje.lekcja1.rozwiazania.zadanie2.Dieta;
+import lekcje.lekcja1.rozwiazania.zadanie3.Gatunek;
+import lekcje.lekcja1.rozwiazania.zadanie5.Wlasciciel;
 
 public class Zwierze4 {
 

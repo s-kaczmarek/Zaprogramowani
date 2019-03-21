@@ -1,6 +1,4 @@
-package lekcje.lekcja1.zadania.zadanie1;
-
-import lekcje.lekcja1.zadania.zadanie1.Zwierze;
+package lekcje.lekcja1.rozwiazania.zadanie1;
 
 public class Zadanie1App {
 

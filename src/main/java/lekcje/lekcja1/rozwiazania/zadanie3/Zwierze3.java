@@ -1,17 +1,17 @@
-package lekcje.lekcja1.zadania.zadanie2;
+package lekcje.lekcja1.rozwiazania.zadanie3;
 
-import lekcje.lekcja1.zadania.zadanie1.Zwierze;
+import lekcje.lekcja1.rozwiazania.zadanie2.Dieta;
 
-public class Zwierze2 {
+public class Zwierze3 {
 
-    private String gatunek;
+    private Gatunek gatunek;
     private String imie;
     private String dzwiek;
     private Boolean ucieczka;
     private Dieta dieta;
 
 
-    public Zwierze2(String _gatunek, String _imie, String _dzwiek, Boolean _ucieczka, Dieta _dieta){
+    public Zwierze3(Gatunek _gatunek, String _imie, String _dzwiek, Boolean _ucieczka, Dieta _dieta){
         gatunek = _gatunek;
         imie = _imie;
         dzwiek = _dzwiek;
@@ -19,7 +19,7 @@ public class Zwierze2 {
         dieta = _dieta;
     }
 
-    public void zjedz(Zwierze2 zwierze){
+    public void zjedz(Zwierze3 zwierze){
         if(dieta == Dieta.miesozerne){
             System.out.println("jestem miesozerny, chetnie zjem: " + zwierze.getGatunek());
         }else{
@@ -32,7 +32,7 @@ public class Zwierze2 {
         System.out.println(gatunek + " " + imie + " " + "powiedział: " + dzwiek);
     }
 
-    public void czyUcieklPrzedZwierzeciem(Zwierze zwierze){
+    public void czyUcieklPrzedZwierzeciem(Zwierze3 zwierze){
         if(ucieczka == true){
             System.out.println(gatunek + " " + imie + " " + "uciekł " + "przed " + zwierze.getGatunek() + " " + zwierze.getImie());
         }else{
@@ -40,7 +40,7 @@ public class Zwierze2 {
         }
     }
 
-    public String getGatunek() {
+    public Gatunek getGatunek() {
         return gatunek;
     }
 

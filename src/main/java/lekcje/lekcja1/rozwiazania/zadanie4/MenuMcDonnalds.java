@@ -1,4 +1,4 @@
-package lekcje.lekcja1.zadania.zadanie4;
+package lekcje.lekcja1.rozwiazania.zadanie4;
 
 public enum MenuMcDonnalds {
     BigMac(12.0d),

@@ -1,4 +1,4 @@
-package lekcje.lekcja1.zadania.zadanie3;
+package lekcje.lekcja1.rozwiazania.zadanie3;
 
 public enum Gatunek {
     Lew,

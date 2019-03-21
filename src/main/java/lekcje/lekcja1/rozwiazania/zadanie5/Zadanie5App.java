@@ -1,4 +1,4 @@
-package lekcje.lekcja1.zadania.zadanie5;
+package lekcje.lekcja1.rozwiazania.zadanie5;
 
 import java.util.ArrayList;
 import java.util.List;

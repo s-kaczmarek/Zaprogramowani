@@ -1,4 +1,4 @@
-package lekcje.lekcja1.zadania.zadanie4;
+package lekcje.lekcja1.rozwiazania.zadanie4;
 
 import lekcje.lekcja1.przyklady.przyklad1.Osoba;
 

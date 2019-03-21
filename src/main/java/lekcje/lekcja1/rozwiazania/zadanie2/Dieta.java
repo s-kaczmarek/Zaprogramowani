@@ -1,4 +1,4 @@
-package lekcje.lekcja1.zadania.zadanie2;
+package lekcje.lekcja1.rozwiazania.zadanie2;
 
 public enum Dieta {
     miesozerne,
